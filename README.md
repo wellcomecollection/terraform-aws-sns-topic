@@ -1,6 +1,6 @@
 # terraform-aws-sns-topic
 
-[![Build Status](https://travis-ci.org/wellcomecollection/terraform-aws-sns-topic.svg?branch=master)](https://travis-ci.org/wellcomecollection/terraform-aws-sns-topic)
+[![Build status](https://badge.buildkite.com/32443d00543b8545511e592f09bc72ba36dab6c6e95ac5828e.svg?master)](https://buildkite.com/wellcomecollection/terraform-module-terraform-aws-sns-topic)
 
 This module allows you to create an SNS topic with all the trimmings.
 
